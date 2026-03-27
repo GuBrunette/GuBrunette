@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Gulnaz | Backend Software Engineer
+# Backend Software Engineer
 
 ## About
 
